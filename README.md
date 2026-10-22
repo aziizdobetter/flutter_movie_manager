@@ -9,7 +9,7 @@ Proyek ini dibuat sebagai tugas Ujian Tengah Semester (UTS) mata kuliah **Pemrog
 <!-- Ganti path gambar berikut dengan screenshot Anda, misalnya simpan di folder screenshots/ -->
 | Halaman Utama | Tambah Koleksi | Ubah Koleksi |
 |:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Tambah](screenshots/add.png) | ![Ubah](screenshots/edit.png) |
+| ![Home](https://raw.githubusercontent.com/aziizdobetter/flutter_movie_manager/refs/heads/main/images/halaman_utama.png) | ![Tambah](https://raw.githubusercontent.com/aziizdobetter/flutter_movie_manager/refs/heads/main/images/tambah_koleksi.png) | ![Ubah](https://raw.githubusercontent.com/aziizdobetter/flutter_movie_manager/refs/heads/main/images/ubah_koleksi.png) |
 
 ## ✨ Fitur Utama
 
